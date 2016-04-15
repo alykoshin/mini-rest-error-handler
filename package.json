@@ -1,6 +1,6 @@
 {
   "name": "mini-rest-error-handler",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Error handler for mini-rest project",
   "main": "./index.js",
   "engines": {
