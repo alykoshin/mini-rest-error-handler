@@ -45,7 +45,7 @@
   },
   "homepage": "https://github.com/alykoshin/mini-rest-error-handler",
   "dependencies": {
-    "lodash": "^4.10.0"
+    "lodash": "^4.17.4"
   },
   "devDependencies": {}
 }
